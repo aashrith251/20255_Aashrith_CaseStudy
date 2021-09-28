@@ -1,0 +1,10 @@
+
+  .center {
+    display: flex;
+    justify-content: center;
+  }
+  .center input[type = "image"]:focus{
+    width: 500px;
+    border-color: #2ecc71;
+  }
+  
